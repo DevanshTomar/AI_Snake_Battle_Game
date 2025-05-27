@@ -1,7 +1,10 @@
-# AI Snake Battle
+# AI Snake Battle 🐍⚔️🐍
 
 A competitive two-player Snake game where AI-controlled snakes battle for survival and dominance. Watch as Orange and Cyan snakes compete using intelligent pathfinding algorithms and strategic decision-making in real-time.
 
+[![Click to watch the AI Snake Battle demo](images/snake_battle_thumbnail.png)](https://youtube.com/shorts/kGVT8vIaZRc?feature=share)
+
+*Click the image above to watch a demo video!*
 
 ## 📋 Table of Contents
 - [Overview](#overview)
