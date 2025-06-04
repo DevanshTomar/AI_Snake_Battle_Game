@@ -189,7 +189,7 @@ The game runs automatically once AI strategies are selected. You can:
 ## Project Structure
 
 ```
-snake_game/
+AI_Snake_Battle_Game/
 │
 ├── main.py                 # Entry point and game loop
 ├── config.py              # Game configuration and constants
